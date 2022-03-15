@@ -1,0 +1,13 @@
+body{
+    background-color: #808080;
+    border: 300px;
+}
+div {
+    background-color: #fea500;
+    width: 120px;
+    height: 120px;
+    margin: 10px
+}
+h1{
+    color:white;
+}
